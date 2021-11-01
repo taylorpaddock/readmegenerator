@@ -32,10 +32,10 @@ function renderLicenseSection(license) {
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(answers) {
-  return `# ${answers.user_name} - ${answers.project}
+  return `# ${answers.project} - ${answers.user_name}
 ${renderLicenseBadge(answers.license)}
 
-## Instructions
+## Description
 ${answers.description}
 
 ## Installation
