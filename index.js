@@ -61,6 +61,6 @@ inquirer.prompt([
 .then((response) => {
     const data = createMarkdown(response);
     fs.writeFile("READMEgenerator.md", data, (err) =>
-        err ? console.error(err) : console.log('Markdown succesfully')
+        err ? console.error(err) : console.log('Markdown file succesfully created.')
     );
 });
