@@ -10,8 +10,7 @@ In Visual Studio Code or a similar application open your integrated terminal tie
 
 ## Usage
 
-Type in 'node index.js' to run the application. This is the best way to cut down time spent formating a README file. <br>
-link: https://taylorpaddock.github.io/portfolio/ 
+Type in 'node index.js' to run the application. This is the best way to cut down time spent formating a README file. See the below gif to see how the application should run.
 <br>
 <br>
 ![gif of application](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
@@ -23,4 +22,4 @@ Used help from UW BOOTCAMP week 9 node.js files.
 ## How to Contribute
 
 Update formating to look cleaner. <br>
-Link to a website application so this can all function online and not on your computer terminal.
+Link to a website application, so this can all function online and not on your computer terminal.
