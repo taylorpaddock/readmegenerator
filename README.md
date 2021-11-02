@@ -10,7 +10,7 @@ In Visual Studio Code or a similar application open your integrated terminal tie
 
 ## Usage
 
-In the integrated terminal, type in 'node index.js' to run the application. This is the best way to cut down time spent formating a README file. See the below gif to see how the application should run.
+In the integrated terminal, type in 'node index.js' to run the application and answer the prompts to create your own markdown document. This is the best way to cut down time spent formating a README file. See the below gif to see how the application should run.
 <br>
 <br>
 
