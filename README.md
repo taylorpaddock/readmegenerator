@@ -2,7 +2,7 @@
 
 ## Description
 
-Create a README generator using node.js so anyone can quickly create a professional README for any project.
+Create a README generator application using node.js so anyone can quickly create a professional README for any project.
 
 ## Installation
 
