@@ -1,5 +1,5 @@
 # project title here - taylor
-![GPL%20v3 license](https://img.shields.io/badge/License-GPL%20v3-yellow.svg))
+![GPL%20v3 license](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)
 
 ## Description
 project description here.
