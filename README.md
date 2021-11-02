@@ -6,11 +6,11 @@ Create a README generator using node.js so anyone can quickly create a professio
 
 ## Installation
 
-In Visual Studio Code or a similar application open your integrated terminal tied to the index.js of this project and run 'npm install'. This will download all packages needed to run the application.
+In Visual Studio Code or a similar application open your integrated terminal tied to the index.js of this project and run 'npm install' or 'npm i'. This will download all packages needed to run the application.
 
 ## Usage
 
-Type in 'node index.js' to run the application. This is the best way to cut down time spent formating a README file. See the below gif to see how the application should run.
+In the integrated terminal, type in 'node index.js' to run the application. This is the best way to cut down time spent formating a README file. See the below gif to see how the application should run.
 <br>
 <br>
 
