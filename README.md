@@ -13,7 +13,8 @@ In Visual Studio Code or a similar application open your integrated terminal tie
 Type in 'node index.js' to run the application. This is the best way to cut down time spent formating a README file. See the below gif to see how the application should run.
 <br>
 <br>
-![gif of application](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+![gif of application](./readmegenerator.gif)
 
 ## Credits
 
